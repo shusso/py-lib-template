@@ -1,4 +1,4 @@
-yarl==1.5.1
+yarl==1.6.0
 aiohttp==3.6.2
 cassandra-driver==3.12.0
 aiocassandra==1.1.0
