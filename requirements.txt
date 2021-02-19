@@ -2,5 +2,5 @@ yarl==1.6.3
 aiohttp==3.7.3
 cassandra-driver==3.12.0
 aiocassandra==1.1.0
-uvloop==0.15.1
+uvloop==0.15.2
 
